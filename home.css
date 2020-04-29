@@ -1,0 +1,10 @@
+.tamanho-medico{
+	width: 100%
+}
+
+.footer{
+	background: #efefef;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
